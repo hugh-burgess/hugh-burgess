@@ -9,7 +9,7 @@
 
 [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 ][linkedin]
-[<img alt="codeSTACKr | Medium" width="22px" src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" />
+[<img alt="codeSTACKr | Medium" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
 ][medium]
 <br />
 
