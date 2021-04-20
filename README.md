@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugh 👋
 
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Web Development.
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - 💼 Currently enrolled at [Neue Fische](https://www.neuefische.de/) since March 2021.
 
