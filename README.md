@@ -6,8 +6,7 @@
 
 ### Connect with me:
 
-[<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-][twitter]
+
 [<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 ][linkedin]
 [<img alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -49,6 +48,5 @@
 
 [![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/hughburgess
 [linkedin]: https://www.linkedin.com/in/hugh-burgess/
 [medium]: https://hughburgess.medium.com
