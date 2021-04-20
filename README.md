@@ -48,7 +48,7 @@
 
 [![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=dark&hide=io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=dark&hide=io,ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/hugh-burgess/
 [medium]: https://hughburgess.medium.com
