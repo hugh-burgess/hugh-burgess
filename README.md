@@ -4,14 +4,11 @@
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - 💼 Currently enrolled at [Neue Fische](https://www.neuefische.de/) since March 2021.
 
-### Connect with me:
+:zap: GitHub Stats
 
+[![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-][linkedin]
-[<img alt="codeSTACKr | Medium" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
-][medium]
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=dark&hide=io,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <span>
@@ -44,11 +41,16 @@
 
 ---
 
-:zap: GitHub Stats
+### Connect with me:
 
-[![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=dark&hide=io,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+][linkedin]
+[<img alt="codeSTACKr | Medium" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-media-2092/100/social-62-512.png" />
+][medium]
+<br />
+
+---
 
 [linkedin]: https://www.linkedin.com/in/hugh-burgess/
 [medium]: https://hughburgess.medium.com
