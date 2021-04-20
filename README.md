@@ -42,12 +42,12 @@
 ➡️ [more blog posts...](https://hughburgess.medium.com)
 
 ---
-<details>
-<summary>:zap: GitHub Stats</summary>
+
+:zap: GitHub Stats
 
 [![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 [twitter]: https://twitter.com/hughburgess
 [linkedin]: https://www.linkedin.com/in/hugh-burgess/
