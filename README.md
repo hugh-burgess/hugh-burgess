@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything.
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
-- 💼 Currently enrolled at Neue Fische.
+- 💼 Currently enrolled at [Neue Fische](https://www.neuefische.de/) since March 2021.
 
 ### Connect with me:
 
