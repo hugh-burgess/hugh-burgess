@@ -6,9 +6,9 @@
 
 :zap: GitHub Stats
 
-[![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=dark&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh-burgess&theme=greywhite&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=dark&hide=io,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugh-burgess&theme=greywhite&hide=io,ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <span>
