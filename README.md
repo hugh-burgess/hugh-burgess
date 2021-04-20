@@ -1,6 +1,8 @@
 ### Hi there, I'm Hugh 👋
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything.
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
+- 💼 Currently enrolled at Neue Fische.
 
 ### Connect with me:
 
