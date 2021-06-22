@@ -1,10 +1,10 @@
 <h2 align="center">Hi there, I'm Hugh 👋</h2> 
 
-<ul align="center">
-<li> 🌱 A recent graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.</li>
-<li> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.</li> 
-<li> Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).</li>
-</ul>
+
+- 🌱 A recent graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
+- Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).
+
 
 :zap: GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugh-burgess&theme=highcontrast" alt="hugh-burgess" /></p>
