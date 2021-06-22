@@ -31,9 +31,10 @@
 <img align-self="left" alt="AdobeXD" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align-self="left" alt="MapBox" width="26px" src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg" />  
 <img align-self="left" alt="NPM" width="26px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />  
-<img align-self="left" alt="Nodemon" width="26px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" />  
 <img align-self="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" />
 <img align-self="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" /> 
+<img align-self="left" alt="Nodemon" width="26px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" />  
+
 </h2>
 <br />
 <br />
