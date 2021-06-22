@@ -1,8 +1,8 @@
 ### Hi there, I'm Hugh 👋
 
-- 🌱 A recent graduate in Web Development.
+- 🌱 A recent graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
-- 💼 Currently enrolled at [Neue Fische](https://www.neuefische.de/) since March 2021.
+
 
 :zap: GitHub Stats
 
