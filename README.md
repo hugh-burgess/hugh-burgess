@@ -5,8 +5,6 @@
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).
 
-
-:zap: GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugh-burgess&theme=highcontrast" alt="hugh-burgess" /></p>
 
 ### Languages:
