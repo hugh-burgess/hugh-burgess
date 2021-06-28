@@ -17,6 +17,7 @@
 <img align-self="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align-self="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img align-self="left" alt="JSON" width="26px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
+<img align-self="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" />
 </span>
 
 ### Tools:
