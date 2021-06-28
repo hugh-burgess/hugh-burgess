@@ -7,7 +7,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugh-burgess&theme=highcontrast" alt="hugh-burgess" /></p>
 
-### Languages:
+### Experience:
 <span>
 <img align-self="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align-self="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -18,10 +18,6 @@
 <img align-self="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img align-self="left" alt="JSON" width="26px" src="https://www.vectorlogo.zone/logos/json/json-icon.svg" />
 <img align-self="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" />
-</span>
-
-### Tools:
-<span>
 <img align-self="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align-self="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align-self="left" alt="Slack" width="26px" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" />
