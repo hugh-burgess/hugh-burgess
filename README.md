@@ -1,7 +1,8 @@
 <h2 align="center">Hi there, I'm Hugh 👋</h2> 
 
 
-- 🌱 A recent graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.
+- 🌱 A proud graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.
+- 💼 Employed with Check24 since July 2021.
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).
 
