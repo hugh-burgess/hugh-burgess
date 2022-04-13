@@ -6,7 +6,7 @@
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hughburgess&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugh-burgess&theme=dark)](https://git.io/streak-stats)
 
 ### Experience:
 <span>
