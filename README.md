@@ -2,7 +2,7 @@
 
 
 - 🌱 A proud graduate in Web Development at [Neue Fische](https://www.neuefische.de/) from March-May 2021.
-- 💼 Currently employed at DeepBlue Networks AG.
+- 💼 Currently employed at [DeepBlue Networks AG](https://www.db-n.com/).
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 From Scotland originally, living in Hamburg, Germany.
 - Fun fact: I also love to make music. Here's some: [🎸](https://www.youtube.com/watch?v=TDVl9o-zjwc).
 
