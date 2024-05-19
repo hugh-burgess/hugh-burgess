@@ -53,8 +53,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [SideStories XVII: N3uE_f15He.exe](https://hughburgess.medium.com/sidestories-xvii-neue-f15he-exe-6587c7525381)
-- [SideStories XVI: b00tC4mp.exe](https://hughburgess.medium.com/sidestories-xvi-b00tc4mp-exe-71f11f424527)
+- [Bitesize 3: The Usefulness Of A Staging Branch](https://hughburgess.medium.com/bitesize-3-the-usefulness-of-a-staging-branch-a46550cb6239)
+- [Bitesize 4: Building a CSV to JSON Converter](https://hughburgess.medium.com/bitesize-4-building-a-csv-to-json-converter-cba0f93c358e)
 
 <!-- BLOG-POST-LIST:END -->
 
